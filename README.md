@@ -1,54 +1,52 @@
-<h1>Hi, I'm Mohamed! <br/><a href="https://github.com/joshmadakor1">Network Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">System Administrator</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+# 🛠️ Hi, I'm Mohamed!
+### **Aspiring System Administrator | Infrastructure & Network Support**
 
-<h2>👨‍💻 Software Development Projects:</h2>
+Welcome to my profile! I am actively building hands-on experience in **Linux/Windows System Administration, Computer Networking, Virtualization, and Cloud Infrastructure**. My focus is on designing, deploying, and maintaining reliable server environments and secure networks.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+---
 
-<h2>📺 Popular YouTube Videos</h2>
+## 🛠️ Technical Stack & Tools
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- **Operating Systems:** Linux (Ubuntu, Linux Mint, Debian), Windows Server
+- **Networking & Diagnostics:** Cisco IOS, Packet Tracer, Wireshark, BIND9 (DNS), Subnetting, VLANs, `dig`, `nmap`
+- **Virtualization & Mesh Networks:** VMware Workstation, Hyper-V, Tailscale
+- **Services & File Sharing:** OpenSSH, Samba, vsFTPd, Nginx, Docker
+- **Scripting & Automation:** Bash, PowerShell
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🖥️ System Administration & Hands-On Projects
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+### 🐧 Linux Server Administration & Services
+- **[Local DNS Infrastructure (BIND9)](https://github.com/YOUR_USERNAME/bind9-dns-setup)**
+  - Configured custom local DNS zones, primary/secondary zone replication, and client resolution testing.
+- **[Secure File Sharing Server (Samba & vsFTPd)](https://github.com/YOUR_USERNAME/linux-file-server)**
+  - Configured user access controls, chrooted directories, and encrypted file transfers across local network clients.
+- **[Docker Container Management & Reverse Proxy](https://github.com/YOUR_USERNAME/docker-nginx-lab)**
+  - Deployed containerized Nginx instances and managed multi-container environments using Docker CLI and Compose.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Networking & Secure Connectivity
+- **[Enterprise Network Topology & Routing (Cisco Packet Tracer)](https://github.com/YOUR_USERNAME/cisco-network-labs)**
+  - Designed multi-VLAN networks with inter-VLAN routing, OSPF, NAT/PAT, and ACL security policies.
+- **[Secure Remote Access via Tailscale Mesh VPN](https://github.com/YOUR_USERNAME/tailscale-homelab)**
+  - Configured encrypted point-to-point mesh networks, custom exit nodes, and secure remote server management across subnets.
 
-Here are some ideas to get you started:
+### 🪟 Windows Server & Active Directory
+- **[Active Directory & Bulk User Automation](https://github.com/YOUR_USERNAME/active-directory-powershell)**
+  - Set up Domain Controllers, Organizational Units (OUs), Group Policies (GPOs), and automated user provisioning using PowerShell scripts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## ⚡ Quick Bio / What I'm Up To
+- 🔭 **Currently Building:** Homelab virtual machines and containerized network monitoring services.
+- 🌱 **Currently Learning:** Advanced Linux Kernel tuning, Ansible configuration management, and Cloud Networking.
+- 💬 **Ask me about:** Linux server troubleshooting, subnetting, Cisco CLI commands, and Tailscale routing.
+
+---
+
+## 📬 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 -->
